@@ -1,0 +1,11 @@
+# Personal resume copies
+resume.typ
+resume.pdf
+HOGUANTING_*
+resume1.pdf
+
+# Temporary render/comparison files
+tmp/
+
+# Local agent metadata
+.agents/
